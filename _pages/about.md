@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I've done a lot of different things. Right now, I'm working at [Radius Global Market Research](https://radius-global.com/) where I do some advanced analytics[^1] and develop web applications[^2].
+I wear lots of different hats. Right now, I'm working at [Radius Global Market Research](https://radius-global.com/) where I do some advanced analytics[^1] and develop web applications[^2].
 
 I'm also a physical therapist and I currently tutor physical therapy students who are working on their doctorate.
 
