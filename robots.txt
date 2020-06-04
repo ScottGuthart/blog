@@ -1,1 +1,1 @@
-Sitemap: https://seguthart.github.io/blog/sitemap.xml
+Sitemap: https://scottguthart.github.io/blog/sitemap.xml
